@@ -18,15 +18,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" height="40" alt="css3 logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" height="40" alt="Selenium logo"  />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" height="40" alt="css3 logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" height="40" alt="Postman logo"  />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" height="40" alt="css3 logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" height="40" alt="Figma logo"  />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" height="40" alt="css3 logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" height="40" alt="Idea logo"  />
   <img width="12" />
-  <img ![Maven]src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" height="40" alt="css3 logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" height="40" alt="Maven logo"  />
   <img width="12" />
   
   
