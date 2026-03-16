@@ -2,7 +2,7 @@
 Привет ! Меня зовут Елена Детушева. Я - QA-инженер. Занимаюсь мануальным и автотестированием
 ## Tools and Technologies:
 ## Codewars Profile
-![codewars](https://www.codewars.com/users/e-lena)   
+!(https://www.codewars.com/users/e-lena)   
 https://www.codewars.com/users/e-lena/badges/large
 https://www.codewars.com/users/e-lena
 <!--
