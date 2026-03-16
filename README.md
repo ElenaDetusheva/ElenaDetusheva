@@ -1,6 +1,6 @@
 ## Hi there! I am Elena Detusheva 👋
 Привет ! Меня зовут Елена Детушева. Я - QA-инженер. Занимаюсь мануальным и автотестированием
- ## ? Технический стек
+## Tools and Technologies:
 
 - Java Script
 - Java
@@ -11,7 +11,7 @@
 - Allure
 - 
 -
-## Tools and Technologies:
+
 ## Codewars Profile
 https://www.codewars.com/users/e-lena   
 
