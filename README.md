@@ -40,17 +40,10 @@
  </div>
 
 ###
-
-
-- Java Script
-- Java
-- Python
 - Playwright
-- Selenium
 - Cypress
 - Allure
-- 
--
+
 
 ## Codewars Profile
 https://www.codewars.com/users/e-lena   
