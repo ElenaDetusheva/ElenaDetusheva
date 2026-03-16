@@ -1,6 +1,7 @@
 ## Hi there! I am Elena Detusheva 👋
 Привет ! Меня зовут Елена Детушева. Я - QA-инженер. Занимаюсь мануальным и автотестированием
 ## Tools and Technologies:
+## Codewars Profile
 <!--
 **ElenaDetusheva/ElenaDetusheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
