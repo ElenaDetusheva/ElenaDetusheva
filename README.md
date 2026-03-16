@@ -26,6 +26,8 @@
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="40" alt="VSCode logo" title="VSCode" />
   <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" height="40" alt="Idea logo" title="Idea" />
+  <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" height="40" alt="PyCharm logo" title="PyCharm" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" height="40" alt="Maven logo" title="Maven" />
