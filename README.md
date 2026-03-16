@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="left">🛠 Tools and Technologies::</h3>
+## Tools and Technologies:
 
 ###
 
@@ -23,7 +23,7 @@
  </div>
 
 ###
-## Tools and Technologies:
+
 
 - Java Script
 - Java
