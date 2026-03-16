@@ -2,8 +2,9 @@
 Привет ! Меня зовут Елена Детушева. Я - QA-инженер. Занимаюсь мануальным и автотестированием
 ## Tools and Technologies:
 ## Codewars Profile
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/e-lena)   
-
+[![[codewars](https://www.codewars.com/users/e-lena/badges/large)](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/e-lena)   
+https://www.codewars.com/users/e-lena/badges/large
+https://www.codewars.com/users/e-lena
 <!--
 **ElenaDetusheva/ElenaDetusheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
