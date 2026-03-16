@@ -26,6 +26,9 @@
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  
   
  
 
