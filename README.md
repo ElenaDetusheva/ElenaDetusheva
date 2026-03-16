@@ -18,7 +18,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg)" height="40" alt="css3 logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" height="40" alt="css3 logo"  />
   <img width="12" />
  selenium
  https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg
