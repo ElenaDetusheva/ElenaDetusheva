@@ -1,6 +1,7 @@
 ## Hi there! I am Elena Detusheva 👋
 Привет ! Меня зовут Елена Детушева. Я - QA-инженер. Занимаюсь мануальным и автотестированием
-## ? Технический стек
+ ? Технический стек
+
 - Python, FastAPI, Django
 - PostgreSQL, Redis
 - Docker, Kubernetes
