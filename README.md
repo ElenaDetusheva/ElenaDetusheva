@@ -22,6 +22,8 @@
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
  
 
  
