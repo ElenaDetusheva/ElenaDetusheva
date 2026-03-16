@@ -20,8 +20,10 @@
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" height="40" alt="css3 logo"  />
   <img width="12" />
- selenium
- https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg
+  <img src=" https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+ 
+
  
  </div>
 
